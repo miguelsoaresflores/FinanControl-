@@ -1,5 +1,5 @@
 # Banco de dados
-src/database/*.db
+*.db
 
 # Python
 __pycache__/
