@@ -1,0 +1,13 @@
+# Banco de dados
+src/database/*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Configuração do VS Code
+.vscode/
